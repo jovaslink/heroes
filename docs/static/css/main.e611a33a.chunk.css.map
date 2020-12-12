@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KACE,qBACF,CACA,GACE,UACF","file":"main.e611a33a.chunk.css","sourcesContent":["body {\n  background-color: gray;\n}\nh1 {\n  color: white;\n}\n"]}
